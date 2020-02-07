@@ -4,8 +4,8 @@
 #### LOCATION: Centre of Computation Natural Sciences and Biology (CCNSB), International Institute Of Information Technology, Hyderabad
 #### PLATFORM: R-3.6.1, RStudio
 
-### Following are the link(s) for the analysis performed
-### 1. PCA and GSVA: https://mountainman12.github.io/PAAD/PAAD.html
+#### Following are the link(s) for the analysis performed
+#### 1. PCA and GSVA: https://mountainman12.github.io/PAAD/PAAD.html
 
 ## OVERVIEW:
 - The gene expression data was parsed using cmapR library
