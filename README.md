@@ -3,7 +3,7 @@
 ### AUTHOR: PAWAN VERMA
 ### LOCATION: Centre of Computation Natural Sciences and Biology (CCNSB), International Institute Of Information Technology, Hyderabad
 ### PLATFORM: R-3.6.1, RStudio
-#### Link: https://mountainman12.github.io/PAAD/index.html
+#### Link: https://mountainman12.github.io/PAAD/PAAD.html
 
 ## OVERVIEW:
 - The gene expression data was parsed using cmapR library
