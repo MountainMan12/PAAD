@@ -27,8 +27,13 @@ locale:
 [4] LC_NUMERIC=C                   LC_TIME=English_India.1252    
 
 attached base packages:
-[1] parallel  stats     graphics  grDevices utils     datasets  methods   base     
+parallel stats graphics grDevices utils datasets methods base     
 
 other attached packages:
-[1] GSVA_1.32.0         vsn_3.52.0          Biobase_2.44.0      BiocGenerics_0.30.0
-[5] phantasus_1.4.0     cmapR_0.99.15
+GSVA_1.32.0 vsn_3.52.0 Biobase_2.44.0 BiocGenerics_0.30.0 cmapR_0.99.15
+
+## ACKNOWLEDGEMNETS
+- https://bioconductor.org/
+
+## ISSUES
+In case of any queries, contact: pawan12394@gmail.com
